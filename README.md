@@ -1,9 +1,7 @@
  HEAD
-# digital-resume-LoganBryant
-Digital Resume created by github
 
 # Digital Resume - Logan Bryant
-
+Digital Resume created by github
 
 I am A motivated and hardworking senior in electrical engineering with strong technical skills and hands-on experience gained through a 
 year-long cooperative education position. Passionate about applying knowledge to real-world challenges and eager to contribute 
