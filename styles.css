@@ -11,19 +11,12 @@ h1 {
 }
 h2 {
     color: maroon;
+ display: inline-block;
+    border-bottom: 3px solid maroon;
+    padding-bottom: 5px;
+    transition: border-bottom 0.3s ease-in-out;
 }
 ul {
     list-style-type: square;
-}
-a {
-    color: maroon;
-    text-decoration: none;
-    font-weight: bold;
-    transition: color 0.3s ease-in-out;
-}
-
-a:hover {
-    color: darkred;
-    text-decoration: underline;
 }
 }
